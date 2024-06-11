@@ -22,7 +22,7 @@ Resources
 Learning Objectives
 -------------------
 
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/vXmxtc5JH_CeIWReMTNhDA "explain to anyone"), **without the help of Google**:
+And at the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/vXmxtc5JH_CeIWReMTNhDA "explain to anyone"), **without the help of Google**:
 
 -   run javascript using NodeJS
 -   use NodeJS modules
